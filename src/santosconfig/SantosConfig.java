@@ -22,8 +22,6 @@ public class SantosConfig {
         l = new Log( "config_log", "C:\\Users\\justdasc\\Desktop\\Santos\\", true);
         l.showLog();
         l.addInfo("Config log has been created.");
-        Config c = new Config("path");
-        c.createConfig();
     }
     
 }
