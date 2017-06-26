@@ -5,7 +5,6 @@
  */
 package santosconfig;
 
-import santosconfig.config.Config;
 import santoslogger.gui.Log;
 
 /**
